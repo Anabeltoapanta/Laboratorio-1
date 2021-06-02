@@ -39,6 +39,12 @@ https://youtu.be/feQaEY2clkM
 
 **6. CONCLUSONES**
 
+ Este laboratorio realizado sobre las leyes de Kirchhoff es importante para un mejor 
+ entendimiento de la razón por la cual estas leyes son válidas y qué tan precisas
+ pueden ser. El manejo de ellas es imperial: gracias a ellas se pueden resolver sin 
+ mayores complicaciones circuitos eléctricos que serían demasiado complejos de analizar 
+ mediante la reducción de los mismos a circuitos más simples. 
+
 **7. BIBLIOGRAFÍA**
 
 Robbins, A. H. (2008). Análisis de Circuitos Teoria y Practica. Santa Fe-Mexico: Cengage Learning.
