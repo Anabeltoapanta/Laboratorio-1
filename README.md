@@ -1,5 +1,11 @@
 # ImformeLaboratorio
 
+AUTORES:
+
+MEJÍA CESAR 
+, TOAPANTA ANABEL
+, MONTALVO STEVE.
+
 **1.OBJETIVOS** 
 
 Objetivo General
