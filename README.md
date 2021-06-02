@@ -37,7 +37,7 @@ Objetivos Específicos
 link del video 
 
 
-https://studio.youtube.com/video/feQaEY2clkM/edit
+https://youtu.be/feQaEY2clkM
 
 **6. CONCLUSONES**
 
