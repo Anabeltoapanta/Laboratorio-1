@@ -39,11 +39,16 @@ https://youtu.be/feQaEY2clkM
 
 **6. CONCLUSONES**
 
- Este laboratorio realizado sobre las leyes de Kirchhoff es importante para un mejor 
+ Se comprobó analíticamente las dos leyes de Kirchhoff ya sea la ley de los voltajes
+ como la ley de las corrientes en un circuito.
+
+ En fin el laboratorio realizado sobre las leyes de Kirchhoff es importante para un mejor 
  entendimiento de la razón por la cual estas leyes son válidas y qué tan precisas
- pueden ser. El manejo de ellas es imperial: gracias a ellas se pueden resolver sin 
+ pueden ser. El manejo de ellas es fundamental: gracias a ellas se pueden resolver sin 
  mayores complicaciones circuitos eléctricos que serían demasiado complejos de analizar 
  mediante la reducción de los mismos a circuitos más simples. 
+ 
+ 
 
 **7. BIBLIOGRAFÍA**
 
