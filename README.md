@@ -1,6 +1,11 @@
 # ImformeLaboratorio
 
 **1.OBJETIVOS** 
+Objetivos Específicos
+
+* Inferir las Leyes de Kirchhoff basándose en los resultados experimentales 
+  propios del laboratorio realizado.
+* 
 
 **2.MARCO TEÓRICO**
 ![](https://github.com/Anabeltoapanta/Laboratorio-1/blob/main/20210601_212435.jpg)
