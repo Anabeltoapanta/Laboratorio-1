@@ -37,7 +37,7 @@ Para iniciar bosquejamos el diagrama esquemático del circuito que se desea mode
 este caso está dado por la guía, y es el siguiente:
 ![](https://github.com/Anabeltoapanta/Laboratorio-1/blob/main/20210602_101905.jpg)
 Luego procedemos a modelarlo dentro del simulador Tinkercad y  colocamos las resistencias
-en este caso serian 5 además y un suministro de energía.
+en este caso serian 5 además un multímetro y un suministro de energía.
 ![](https://github.com/Anabeltoapanta/Laboratorio-1/blob/main/20210602_101832.jpg)
 
 ![](https://github.com/Anabeltoapanta/Laboratorio-1/blob/main/20210602_100617.jpg)
