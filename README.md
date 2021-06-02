@@ -9,7 +9,9 @@ Objetivos Específicos
   las intensidades de corriente y los voltajes en un circuito determinado.
 * Comparar los resultados teóricos hallados mediante las leyes mencionadas y 
   los experimentales usando equipos de medición y así determinar los errores 
-  porcentuales presentes en la medición
+  presentes en la medición.
+* Verificar el cumplimiento de las leyes de Kirchhoff y asi evaluar las 
+  corrientes y voltajes presentes en un circuito.
 
 **2.MARCO TEÓRICO**
 ![](https://github.com/Anabeltoapanta/Laboratorio-1/blob/main/20210601_212435.jpg)
