@@ -4,6 +4,11 @@
 
 Objetivo General
 
+* Realizar, manipular  y analizar la simulacion de un circuito mixto
+  conformado por distintos elementos electrico  y comparar valores
+  obtenidos de la simulacion , con los obtenidos del calculo aplicando 
+  las leyes de Kirchhoff.
+
 
 Objetivos Específicos
 
