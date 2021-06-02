@@ -4,6 +4,7 @@
 
 **2.MARCO TEÓRICO**
 ![](https://github.com/Anabeltoapanta/Laboratorio-1/blob/main/20210601_212435.jpg)
+![](https://github.com/Anabeltoapanta/Laboratorio-1/blob/main/Marco%2520te%C3%B3rico.jpg)
 
 
 **3. EXPLICACIÓN DEL PROCEDIMIENTO**
