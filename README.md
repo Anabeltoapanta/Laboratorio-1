@@ -36,6 +36,8 @@ Objetivos Específicos
 ![](https://github.com/Anabeltoapanta/Laboratorio-1/blob/main/20210602_100617.jpg)
 
 **4. RESPUESTAS A INTERROGANTES**
+![](https://github.com/Anabeltoapanta/Laboratorio-1/blob/main/20210602_100408.jpg)
+
 
 **5. VIDEO**
 
