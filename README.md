@@ -2,6 +2,9 @@
 
 **1.OBJETIVOS** 
 
+Objetivo General
+
+
 Objetivos Específicos
 
 * Inferir las Leyes de Kirchhoff basándose en los resultados experimentales 
