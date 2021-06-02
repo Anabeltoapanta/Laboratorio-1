@@ -1,1 +1,17 @@
-# Laboratorio-1
+# ImformeLaboratorio
+
+**1.OBJETIVOS** 
+
+**2.MARCO TEÓRICO**
+
+**3. EXPLICACIÓN DEL PROCEDIMIENTO**
+
+**4. RESPUESTAS A INTERROGANTES**
+
+**5. VIDEO**
+
+**6. CONCLUSONES**
+
+**7. BIBLIOGRAFÍA**
+
+
