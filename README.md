@@ -7,7 +7,9 @@ Objetivos Específicos
   propios del laboratorio realizado.
 * Calcular a partir de las Leyes de Kirchhoff los valores experimentales de 
   las intensidades de corriente y los voltajes en un circuito determinado.
-*
+* Comparar los resultados teóricos hallados mediante las leyes mencionadas y 
+  los experimentales usando equipos de medición y así determinar los errores 
+  porcentuales presentes en la medición
 
 **2.MARCO TEÓRICO**
 ![](https://github.com/Anabeltoapanta/Laboratorio-1/blob/main/20210601_212435.jpg)
