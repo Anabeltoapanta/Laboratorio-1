@@ -33,6 +33,8 @@ Objetivos Específicos
 
 **3. EXPLICACIÓN DEL PROCEDIMIENTO**
 
+![](https://github.com/Anabeltoapanta/Laboratorio-1/blob/main/20210602_100617.jpg)
+
 **4. RESPUESTAS A INTERROGANTES**
 
 **5. VIDEO**
