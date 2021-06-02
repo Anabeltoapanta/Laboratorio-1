@@ -33,6 +33,9 @@ Objetivos Específicos
 
 **3. EXPLICACIÓN DEL PROCEDIMIENTO**
 
+Para iniciar bosquejamos el diagrama esquemático del circuito que se desea modelar, en
+este caso está dado por la guía, y es el siguiente:
+
 ![](https://github.com/Anabeltoapanta/Laboratorio-1/blob/main/20210602_100617.jpg)
 
 **4. RESPUESTAS A INTERROGANTES**
