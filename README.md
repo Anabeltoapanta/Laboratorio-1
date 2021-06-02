@@ -54,6 +54,9 @@ en este caso serian 5 además un multímetro y un suministro de energía.
 **4. RESPUESTAS A INTERROGANTES**
 ![](https://github.com/Anabeltoapanta/Laboratorio-1/blob/main/20210602_100408.jpg)
 ![](https://github.com/Anabeltoapanta/Laboratorio-1/blob/main/20210602_101148.jpg)
+**Datos medidos**
+Por medio de las tablas plasmaremos los datos que salieron de la experimentación.
+
 
 
 **5. VIDEO**
