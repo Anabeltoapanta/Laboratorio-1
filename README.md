@@ -60,7 +60,8 @@ Por medio de las tablas plasmaremos los datos que salieron de la experimentació
 ![](https://github.com/Anabeltoapanta/Laboratorio-1/blob/main/1.png)
 Esta tabla estan presentes las trayectorias con los datos que adquirimos con la medición.
 ![](https://github.com/Anabeltoapanta/Laboratorio-1/blob/main/2.png)
-
+Por último el cálculo de los nodos con la segunda ley de Kirchhoff.
+ 
 
 
 **5. VIDEO**
