@@ -58,7 +58,8 @@ en este caso serian 5 además un multímetro y un suministro de energía.
 
 Por medio de las tablas plasmaremos los datos que salieron de la experimentación.
 ![](https://github.com/Anabeltoapanta/Laboratorio-1/blob/main/1.png)
-Esta tabla estan presentes las trayectorias.
+Esta tabla estan presentes las trayectorias con los datos que adquirimos con la medición.
+![](https://github.com/Anabeltoapanta/Laboratorio-1/blob/main/2.png)
 
 
 
