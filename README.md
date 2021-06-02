@@ -1,6 +1,7 @@
 # ImformeLaboratorio
 
 **1.OBJETIVOS** 
+
 Objetivos Específicos
 
 * Inferir las Leyes de Kirchhoff basándose en los resultados experimentales 
