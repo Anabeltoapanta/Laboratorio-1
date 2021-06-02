@@ -3,6 +3,8 @@
 **1.OBJETIVOS** 
 
 **2.MARCO TEÓRICO**
+![](https://github.com/Anabeltoapanta/Laboratorio-1/blob/main/20210601_212435.jpg)
+
 
 **3. EXPLICACIÓN DEL PROCEDIMIENTO**
 
