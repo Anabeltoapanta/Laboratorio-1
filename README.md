@@ -38,4 +38,6 @@ Objetivos Específicos
 
 **7. BIBLIOGRAFÍA**
 
+Robbins, A. H. (2008). Análisis de Circuitos Teoria y Practica. Santa Fe-Mexico: Cengage Learning.
+
 
