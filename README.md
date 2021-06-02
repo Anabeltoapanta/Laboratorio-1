@@ -55,8 +55,10 @@ en este caso serian 5 además un multímetro y un suministro de energía.
 ![](https://github.com/Anabeltoapanta/Laboratorio-1/blob/main/20210602_100408.jpg)
 ![](https://github.com/Anabeltoapanta/Laboratorio-1/blob/main/20210602_101148.jpg)
 **Datos medidos**
+
 Por medio de las tablas plasmaremos los datos que salieron de la experimentación.
 ![](https://github.com/Anabeltoapanta/Laboratorio-1/blob/main/1.png)
+Esta tabla estan presentes las trayectorias.
 
 
 
